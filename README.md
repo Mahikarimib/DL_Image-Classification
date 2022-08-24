@@ -1,1 +1,1 @@
-# Image-Classification
+# Deep learning in PyTorch & machine learning 
